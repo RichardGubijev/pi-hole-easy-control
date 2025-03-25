@@ -2,6 +2,7 @@
 .env
 !.env.template
 test/
+.vscode/
 
 # CREATE-NEXT-APP .gitignore 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -35,9 +36,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
-
-# vercel
-.vercel
 
 # typescript
 *.tsbuildinfo
